@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 About
+## About
 
 **Web3 Mumbai** is a community-led initiative running hackathons, workshops, and meetups across Mumbai's engineering colleges and builder communities. This repository documents our **Road to Devcon 8** program — events, resources, and on-chain outcomes built in the lead-up to Devcon 8 (November 2025).
 
@@ -12,13 +12,13 @@ We are supported by the **Ethereum Foundation's Road to Devcon Ecosystem Program
 
 ---
 
-## 🎯 Mission
+## Mission
 
 Convert Mumbai's traditional technical talent into active Ethereum contributors — one campus at a time.
 
 ---
 
-## 📅 Events
+## Events
 
 | Event | Format | Expected Attendees | Status |
 |---|---|---|---|
@@ -31,17 +31,17 @@ Convert Mumbai's traditional technical talent into active Ethereum contributors 
 
 ---
 
-## 🔗 On-Chain Outcomes
+## On-Chain Outcomes
 
 Each event is designed to produce verifiable, on-chain proof of participation:
 
-- ✅ Sepolia testnet wallet funding for new devs
-- ✅ POAP mints for event attendees
-- ✅ Open-source GitHub repositories from hackathon participants
+-  Sepolia testnet wallet funding for new devs
+-  POAP mints for event attendees
+-  Open-source GitHub repositories from hackathon participants
 
 ---
 
-## 👥 Team
+## Team
 
 | Name | Role | Contact |
 |---|---|---|
@@ -50,7 +50,7 @@ Each event is designed to produce verifiable, on-chain proof of participation:
 
 ---
 
-## 🏆 Past Work
+## Past Work
 
 - **Monad Blitz Mumbai** — High-intensity 1-day hackathon deploying consumer apps on Monad testnet
 - **Base App Launch Party** — Official regional launch with 350+ attendees
@@ -60,10 +60,10 @@ Each event is designed to produce verifiable, on-chain proof of participation:
 
 ## 🌐 Links
 
-- 🌳 Linktree: [web3mumbai.linktree](https://linktr.ee/) *(update link)*
-- 🐦 Twitter/X: [@Web3Mumbai](https://x.com/) *(update link)*
-- 💬 Telegram Community: [Join here](https://t.me/) *(update link)*
-- 📋 Proof of Work Portfolio: *(add link)*
+- Linktree: [web3mumbai.linktree](https://linktr.ee/) *(update link)*
+- Twitter/X: [@Web3Mumbai](https://x.com/) *(update link)*
+- Telegram Community: [Join here](https://t.me/) *(update link)*
+- Proof of Work Portfolio: *(add link)*
 
 ---
 
@@ -79,7 +79,7 @@ Devcon8-X-Web3Mumbai/
 
 ---
 
-## 📜 License
+## License
 
 MIT License — open for the community.
 
