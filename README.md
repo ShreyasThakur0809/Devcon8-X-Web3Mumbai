@@ -6,7 +6,7 @@
 
 ## About
 
-**Web3 Mumbai** is a community-led initiative running hackathons, workshops, and meetups across Mumbai's engineering colleges and builder communities. This repository documents our **Road to Devcon 8** program — events, resources, and on-chain outcomes built in the lead-up to Devcon 8 (November 2025).
+**Web3 Mumbai** is a community-led initiative running hackathons, workshops, and meetups across Mumbai's engineering colleges and builder communities. This repository documents our **Road to Devcon 8** program — events, resources, and on-chain outcomes built in the lead-up to Devcon 8 (November 2026).
 
 We are supported by the **Ethereum Foundation's Road to Devcon Ecosystem Program**.
 
