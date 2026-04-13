@@ -58,16 +58,13 @@ Each event is designed to produce verifiable, on-chain proof of participation:
 
 ---
 
-## 🌐 Links
+## Links
 
-- Linktree: [web3mumbai.linktree](https://linktr.ee/) *(update link)*
-- Twitter/X: [@Web3Mumbai](https://x.com/) *(update link)*
-- Telegram Community: [Join here](https://t.me/) *(update link)*
-- Proof of Work Portfolio: *(add link)*
-
+- Linktree: [web3mumbai.linktree](https://linktr.ee/web3mumbai) 
+- Twitter/X: [@weareWeb3Mumbai](https://x.com/weareweb3mumbai) 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Devcon8-X-Web3Mumbai/
